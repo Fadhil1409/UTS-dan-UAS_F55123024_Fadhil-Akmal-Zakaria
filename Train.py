@@ -31,8 +31,6 @@ def prepare_data(data_dir, img_size=(128, 128), test_split=0.2):
     # Return data, labels, and class names
     return data, labels, class_names
 
-
-
 def Random_forest(X_train, y_train, X_test):
     # Classification with Random Forest
     rf = RandomForestClassifier(n_estimators=100)
