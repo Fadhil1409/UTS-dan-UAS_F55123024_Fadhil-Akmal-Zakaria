@@ -1,4 +1,5 @@
-Untuk File UTS nya itu Train.py dan tanda tangan kelas A
+Untuk File UTS nya itu Train.py dan tanda tangan kelas A......
+
 Nama : Fadhil Akmal Zakaria
 NIM : F55123024
 
