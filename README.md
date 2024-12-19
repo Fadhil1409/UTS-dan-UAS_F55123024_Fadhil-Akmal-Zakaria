@@ -1,1 +1,4 @@
-# UTS-UAS_F55123024_Fadhil-Akmal-Zakaria
+UTS Dan UAS Kecerdasan Buatan Kelas A
+
+NAMA : Fadhil Akmal Zakaria
+NIM  : F55123024
